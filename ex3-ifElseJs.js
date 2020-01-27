@@ -1,7 +1,7 @@
 //  NAMA: Hamzah Abdullah Mubarak
 
 // Input
-var nama = 'Mikael';
+var nama = 'Young Lex';
 var peran = 'Penyihir';
 
 if (nama === ''){
